@@ -1,0 +1,13 @@
+0.5 -> 45
+0.45 -> 45
+0.40 -> 77
+0.35 -> 72
+0.30 -> 114
+0.25 -> 157
+0.20 -> 248
+0.15 -> 479
+0.10 -> 1523
+
+unack-table-> It's simple array with fields, port, addr, buf, size, and valid(it conatins if ack is received or not).
+received-id-> It's a simple array.
+received-buffer-> It's a simple array with fields buf and id.
